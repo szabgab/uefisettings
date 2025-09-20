@@ -4,7 +4,7 @@ description = "The tool to read/get/extract and write/change/modify BIOS/UEFI se
 version = "0.1.5"
 edition = "2021"
 license = "BSD-3-Clause"
-homepage = "https://github.com/linuxboot/uefisettings"
+repository = "https://github.com/linuxboot/uefisettings"
 
 [lib]
 name = "uefisettings"
